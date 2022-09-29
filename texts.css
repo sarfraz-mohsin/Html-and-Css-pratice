@@ -1,0 +1,79 @@
+p{
+    margin: 0;
+}
+
+.tomaha-font{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 17px;
+}
+
+.ariel-font{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.ariel-font2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: red;
+    margin-bottom: 17px;
+    font-style: italic;
+}
+
+.verdana1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+.verdana2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: rgb(109, 107, 107);
+    margin-bottom: 12px;
+}
+
+.verdana3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    margin-bottom: 12px;
+    width: 280px;
+}
+
+.verdana-btn{
+    color: white;
+    background-color: green;
+    border-radius: 8px;
+    padding: 6px 20px;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.center1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.center2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 400px;
+}
+
+.center3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 400px;
+    color: blue;
+}

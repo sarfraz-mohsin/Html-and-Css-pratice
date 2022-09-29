@@ -1,0 +1,84 @@
+.back-btn{
+    padding: 5px 10px;
+    margin-right: 8px;
+  }
+
+  .next-btn{
+    padding: 5px 10px;
+    margin-left: 8px;
+  }
+
+  .stretch{
+    color: white;
+    background-color: green;
+    border: none;
+    padding: 15px 25px;
+    cursor: pointer;
+    transition: padding 1s;
+  }
+
+  .stretch:hover{
+    padding: 25px 35px;
+  }
+
+  .shadow{
+    color: white;
+    background-color: green;
+    border: none;
+    padding: 15px 25px;
+    cursor: pointer;
+    transition: margin 1s,
+    box-shadow 1s;
+    box-shadow: 5px 5px 10px rgba(0, 0 , 0,0.3);
+
+  }
+
+  .shadow:active{
+    margin: 3px 0 0 3px;
+    box-shadow: none  ;
+}
+
+.one{
+    color: white;
+    background-color: green;
+    margin: 0 15px 0 15px;
+    border: none;
+    padding: 15px 25px;
+    cursor: pointer;
+    transition: padding 1s, margin 1s;
+  }
+
+  .one:hover{
+    padding: 15px 35px;
+    margin: 0 ;
+  }
+
+  .two{
+    color: white;
+    background-color: green;
+    border: none;
+    margin: 0 15px 0 15px;
+    padding: 15px 25px;
+    cursor: pointer;
+    transition: padding 1s, margin 1s;
+  }
+
+  .two:hover{
+    padding: 15px 35px;
+    margin: 0 ;
+  }
+
+  .three{
+    color: white;
+    background-color: green;
+    border: none;
+    padding: 15px 25px;
+    margin: 0 15px 0 15px;
+    cursor: pointer;
+    transition: padding 1s, margin 1s;
+  }
+
+  .three:hover{
+    padding: 15px 35px;
+    margin: 0 ;
+  }

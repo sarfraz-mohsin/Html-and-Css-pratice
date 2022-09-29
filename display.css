@@ -1,0 +1,23 @@
+.yt-img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 100px;
+}
+
+.input1{
+    display: block;
+    margin-bottom: 2px;
+}
+
+.input2{
+    display: block;
+    margin-bottom: 2px;
+}
+
+.para1{
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+}
