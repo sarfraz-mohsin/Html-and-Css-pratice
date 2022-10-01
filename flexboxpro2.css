@@ -1,0 +1,54 @@
+.cat-container{
+    margin-bottom: 20px;
+}
+.container2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 320px;
+    margin-bottom: 10px;
+}
+
+.image-div{
+    margin-right: 10px;
+    justify-content: start;
+    width: 50px;
+    height: 50px;
+}
+
+.cat{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    object-position: top;
+    border: none;
+    border-radius: 25px;
+}
+
+.para-div{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 40px;
+    flex: 1;
+}
+
+.para2,.para3{
+    color: gray;
+}
+
+.para3{
+    font-size: 14px;
+}
+
+.btn-div{
+    width: 70px;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    color: white;
+    background-color: rgb(60, 106, 232);
+    border: none;
+    border-radius: 5px;
+    padding: 7px 12px;
+}

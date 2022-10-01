@@ -1,0 +1,53 @@
+.container{
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.pink{
+    width: 75px;
+    background-color: pink;
+}
+
+.blue{
+    width: 200px;
+    background-color: lightblue;
+}
+
+.container2{
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.blue1{
+    width: 50px;
+    background-color: lightblue;
+}
+
+.pink1{
+    flex: 1;
+    background-color: lightpink;
+}
+
+.blue2{
+    width: 75px;
+    background-color: lightblue;
+}
+
+.container3{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.Item1,.Item2,.Item3,.Item4{
+    background-color: lightpink;
+}
+
+.container4{
+    display: flex;
+    height: 50px;
+    border: 1px solid gray;
+    justify-content: space-between;
+    align-items: center;
+}
+

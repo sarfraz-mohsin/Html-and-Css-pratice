@@ -1,0 +1,70 @@
+.container{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 400px;
+    margin: 15px;
+}
+
+.cat{
+    width: 43px;
+    height: 43px;
+    border-radius: 25px;
+    object-fit: cover;
+    object-position: top;
+    margin-right: 13px;
+}
+
+.info-section{
+    display: flex;
+    flex-direction: column;
+}
+
+.user-info{
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.name{
+    font-weight: bold;
+    margin-right: 6px;
+}
+
+.username{
+    color: rgb(134, 133, 133);
+}
+
+.message{
+    margin-bottom: 8px;
+}
+
+.linker-section{
+    display: flex;
+    border: 1px solid rgb(216, 215, 215);
+    align-items: center;
+    border-radius: 15px;
+    height: 80px;
+    overflow: hidden;
+}
+
+.grey-area{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(220, 220, 220);
+    margin-right: 10px;
+
+    /* background-color: rgb(216, 215, 215);
+    height: 81px;
+    width: 120px;
+    border-radius: 15px 0px 0px 15px;
+    margin-right: 10px; */
+}
+
+.linker-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.youtube{
+    color: rgb(134, 133, 133);
+}

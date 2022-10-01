@@ -1,0 +1,59 @@
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 330px;
+    height: 250px;
+    border: 1px solid lightgray;
+    box-shadow: 2px 0px 5px rgba(0,0,0,0.3);
+}
+
+.inboxes{
+    margin: 8px 12px 16px 12px;
+    font-size: 14px;
+    color: rgb(129, 128, 128);
+}
+
+.inner-container{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.cat{
+    margin-left: 15px;
+    margin-right: 10px;
+    width: 43px;
+    height: 43px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 25px;
+    border: 1px solid darkgray;
+}
+
+.message{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.name{
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.alert{
+    line-height: 18px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.note{
+    font-size: 12px;
+    color: rgb(129, 128, 128);
+}
+
+.time{
+    margin-left: -42px;
+    margin-bottom: 30px;
+    font-size: 12px;
+    color: rgb(129, 128, 128);
+}
