@@ -1,0 +1,43 @@
+.right-side{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100px;
+    bottom: 0;
+    background-color: green;
+} 
+
+.whole-page{
+    display: flex;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    align-items: center;
+    justify-content: center;
+}
+
+.modal{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    width: 300px;
+    height: 120px;
+    border: none;
+    border-radius: 8px;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 22px;
+    margin: 12px 8px;
+}
+
+.comment{
+    margin: 8px;
+}
+
+.close-btn{
+    margin: 8px;
+}
